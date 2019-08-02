@@ -27,7 +27,19 @@
                                 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Phytochemistry-Books/blob/master/pyc(20).pdf" style="text-decoration:none;">Fractals in the Earth Sciences</a></b></li>
 
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Phytochemistry-Books/blob/master/pyc(21).pdf" style="text-decoration:none;">The Key to the Future: The Study of Earth History </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Phytochemistry-Books/blob/master/pyc(22).pdf" style="text-decoration:none;">Earth Science: An Illustrated Guide to Science</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Phytochemistry-Books/blob/master/pyc(23).pdf" style="text-decoration:none;">Continuum Mechanics in the Earth Sciences</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Phytochemistry-Books/blob/master/pyc(24).pdf" style="text-decoration:none;">Animate Earth: Science, Intuition, And Gaia </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Phytochemistry-Books/blob/master/pyc(25).pdf" style="text-decoration:none;">Earth Sciences and Archaeology  </a></b></li>
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Phytochemistry-Books/blob/master/pyc(26).pdf" style="text-decoration:none;">Earth Science Reference Handbook</a></b></li>
+                          
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Phytochemistry-Books/blob/master/pyc(27).pdf" style="text-decoration:none;">Geostatistics with Applications In Earth Sciences</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Phytochemistry-Books/blob/master/pyc(28).pdf" style="text-decoration:none;">Mathematics for Earth Science and Geography</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Phytochemistry-Books/blob/master/pyc(29).pdf" style="text-decoration:none;">Earth Science: Reproducible Activities, Grades 5-8 </a></b></li>
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Phytochemistry-Books/blob/master/pyc(30).rar" style="text-decoration:none;">Earth Science Interactive Textbook</a></b></li>
 
 
 
