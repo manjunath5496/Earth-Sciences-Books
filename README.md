@@ -13,4 +13,26 @@
                                 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Phytochemistry-Books/blob/master/pyc(10).pdf" style="text-decoration:none;">The Facts on File Dictionary of Earth Science</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Phytochemistry-Books/blob/master/pyc(11).pdf" style="text-decoration:none;">Origin and Evolution of Earth: Research Questions for a Changing Planet </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Phytochemistry-Books/blob/master/pyc(12).pdf" style="text-decoration:none;">Physical Science with Earth Science</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Phytochemistry-Books/blob/master/pyc(13).pdf" style="text-decoration:none;">Science of Everyday Things: Real Life Earth Science</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Phytochemistry-Books/blob/master/pyc(14).pdf" style="text-decoration:none;">The Cambridge History of Science: Volume 6, The Modern Biological and Earth Sciences </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Phytochemistry-Books/blob/master/pyc(15).pdf" style="text-decoration:none;">Your Life as Planet Earth: A new way to understand the story of the Earth, its climate and our origins  </a></b></li>
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Phytochemistry-Books/blob/master/pyc(16).pdf" style="text-decoration:none;">Mankind Beyond Earth: The History, Science, and Future of Human Space Exploration</a></b></li>
+                          
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Phytochemistry-Books/blob/master/pyc(17).pdf" style="text-decoration:none;">Mathematical Modelling for Earth Sciences</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Phytochemistry-Books/blob/master/pyc(18).pdf" style="text-decoration:none;">Spatial Modeling Principles in Earth Sciences</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Phytochemistry-Books/blob/master/pyc(19).pdf" style="text-decoration:none;">Thermodynamics in Earth and Planetary Sciences</a></b></li>
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Phytochemistry-Books/blob/master/pyc(20).pdf" style="text-decoration:none;">Fractals in the Earth Sciences</a></b></li>
+
+
+
+
+
+
+
+
+
 </ul>
